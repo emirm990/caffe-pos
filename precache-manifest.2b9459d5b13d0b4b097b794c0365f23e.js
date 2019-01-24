@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/caffe-pos/static/js/runtime~main.f40c46da.js"
   },
   {
-    "revision": "e384de165cdcd264794d",
-    "url": "/caffe-pos/static/js/main.e384de16.chunk.js"
+    "revision": "e02b3e5a2137f06bfd77",
+    "url": "/caffe-pos/static/js/main.e02b3e5a.chunk.js"
   },
   {
     "revision": "422eabe6923f06087bb1",
     "url": "/caffe-pos/static/js/1.422eabe6.chunk.js"
   },
   {
-    "revision": "e384de165cdcd264794d",
+    "revision": "e02b3e5a2137f06bfd77",
     "url": "/caffe-pos/static/css/main.ec1afa03.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/caffe-pos/static/css/1.d7e43b15.chunk.css"
   },
   {
-    "revision": "997a66d2785397955ee3bc3c947a65c8",
+    "revision": "8566103d030f388242dcf6a5916adbc5",
     "url": "/caffe-pos/index.html"
   }
 ];
