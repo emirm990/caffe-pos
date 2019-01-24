@@ -1,7 +1,7 @@
 {
   "main.css": "/caffe-pos/static/css/main.b6304a9f.chunk.css",
-  "main.js": "/caffe-pos/static/js/main.f94a2f8c.chunk.js",
-  "main.js.map": "/caffe-pos/static/js/main.f94a2f8c.chunk.js.map",
+  "main.js": "/caffe-pos/static/js/main.86a3e50d.chunk.js",
+  "main.js.map": "/caffe-pos/static/js/main.86a3e50d.chunk.js.map",
   "static/css/1.d7e43b15.chunk.css": "/caffe-pos/static/css/1.d7e43b15.chunk.css",
   "static/js/1.422eabe6.chunk.js": "/caffe-pos/static/js/1.422eabe6.chunk.js",
   "static/js/1.422eabe6.chunk.js.map": "/caffe-pos/static/js/1.422eabe6.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.d7e43b15.chunk.css.map": "/caffe-pos/static/css/1.d7e43b15.chunk.css.map",
   "static/css/main.b6304a9f.chunk.css.map": "/caffe-pos/static/css/main.b6304a9f.chunk.css.map",
   "index.html": "/caffe-pos/index.html",
-  "precache-manifest.4a07aaa2fe6810c799dd86c619dc4e9a.js": "/caffe-pos/precache-manifest.4a07aaa2fe6810c799dd86c619dc4e9a.js",
+  "precache-manifest.d682ec48aabfb0ecc9eea6009de1f149.js": "/caffe-pos/precache-manifest.d682ec48aabfb0ecc9eea6009de1f149.js",
   "service-worker.js": "/caffe-pos/service-worker.js"
 }
